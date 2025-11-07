@@ -1,0 +1,13 @@
+{
+  "name": "com.sirfateandrage.sotemplatecreator",
+  "version": "1.0.0",
+  "displayName": "SO Template Creator",
+  "description": "Tool for quickly creating ScriptableObject templates.Right click -> Create -> SO Template Creator",
+  "category": "Editor",
+  "unity": "6000.2",
+  "author": {
+    "name": "SirFateAndRage",
+    "email": "milanicristian94@gmail.com",
+    "url": "https://www.linkedin.com/in/cristian-milani-4b176a204/"
+  }
+}
